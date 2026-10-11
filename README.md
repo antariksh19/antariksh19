@@ -17,13 +17,19 @@
 <br/>
 
 <!-- SLEEK SOCIAL BADGES -->
+<!-- SLEEK SOCIAL BADGES -->
 <div align="center">
   <a href="https://www.linkedin.com/in/antariksh-mohapatra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/antariksh19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:antariksh19m@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  
+  <br/><br/>
+  
+  <a href="mailto:antariksh19m@gmail.com">
+    <img src="https://img.shields.io/badge/Status-Open_to_Internships_&_New_Grad_Roles-0EA5E9?style=for-the-badge" alt="Status" />
+  </a>
 </div>
 
-<br/><br/>
 
 <!-- ABOUT & SKILLS MAGAZINE LAYOUT -->
 <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
@@ -35,7 +41,7 @@
 Bridging the gap between <b>machine learning</b> and <b>production-ready applications</b>. I specialize in building end-to-end systems, from highly decoupled mobile architectures to secure cloud environments.
 </p>
 <ul style="list-style-type: none; padding-left: 0;">
-<li>🚀 <strong>Current Focus:</strong> The <b>PROFIT Framework</b> capstone & automating full-stack generation with my <b>AI Website Builder</b>.</li>
+<li>🚀 <strong>Current Focus:</strong> The <a href="https://github.com/antariksh19/PROFIT-Framework" style="color: #0EA5E9; text-decoration: none;"><b>PROFIT Framework</b></a> capstone & automating full-stack generation with my <b>AI Website Builder</b>.</li>
 <br/>
 <li>🧠 <strong>Exploring:</strong> Advanced Computer Vision, Reinforcement Learning, and ZTNA.</li>
 <br/>
@@ -136,7 +142,17 @@ Bridging the gap between <b>machine learning</b> and <b>production-ready applica
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antariksh19&bg_color=transparent&color=0EA5E9&line=0EA5E9&point=ffffff&area=true&hide_border=true&custom_title=Contributions%20Over%20Time" alt="Activity Graph" width="100%" />
 </div>
 
+
 <br/>
+
+<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antariksh19/antariksh19/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antariksh19/antariksh19/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/antariksh19/antariksh19/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <!-- TOP LANGUAGES -->
 <div align="center">
