@@ -8,15 +8,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+XIM+University;Architecting+Scalable+Full-Stack+Systems;Training+%26+Deploying+Intelligent+AI+Models;Building+Zero-Trust+Cloud+Infrastructures" alt="Typing SVG" />
   </a>
-  <br/>
-  <a href="https://github.com/antariksh19">
-    <img src="https://komarev.com/ghpvc/?username=antariksh19&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile views" />
-  </a>
-</div>
 
 <br/>
 
-<!-- SLEEK SOCIAL BADGES -->
 <!-- SLEEK SOCIAL BADGES -->
 <div align="center">
   <a href="https://www.linkedin.com/in/antariksh-mohapatra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -121,13 +115,6 @@ Bridging the gap between <b>machine learning</b> and <b>production-ready applica
 <h2 align="center">📈 GitHub Analytics & Activity</h2>
 <br/>
 
-<!-- TROPHIES -->
-<div align="center">
-  <a href="https://github.com/antariksh19">
-    <img src="https://github-profile-trophy.vercel.app/?username=antariksh19&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</div>
-<br/>
 
 <!-- STATS & STREAK (TRANSPARENT & RESPONSIVE) -->
 <div align="center">
@@ -137,13 +124,6 @@ Bridging the gap between <b>machine learning</b> and <b>production-ready applica
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antariksh19&bg_color=transparent&color=0EA5E9&line=0EA5E9&point=ffffff&area=true&hide_border=true&custom_title=Contributions%20Over%20Time" alt="Activity Graph" width="100%" />
-</div>
-
-
-<br/>
 
 <br/>
 <div align="center">
