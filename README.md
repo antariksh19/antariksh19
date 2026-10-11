@@ -1,6 +1,6 @@
 <!-- DYNAMIC GRADIENT BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0EA5E9&height=250&section=header&text=Antariksh%20Mohapatra&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20&%20Data%20Science&descAlignY=58&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0EA5E9&height=250&section=header&text=Antariksh%20Mohapatra&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20&%20Data%20Science&descAlignY=58&descAlign=50" alt="Header Banner" width="100%" />
 </div>
 
 <!-- TYPING ANIMATION & VIEWS -->
