@@ -1,25 +1,31 @@
-<h1 align="center">Hi there, I'm Antariksh 👋</h1>
-<h3 align="center">Full-Stack Developer | AI & Data Science Enthusiast</h3>
-
-<br/>
-
 <div align="center">
-  <p>
-    I am a B.Tech Computer Science and Engineering student at XIM University (2023-2027) bridging the gap between intelligent AI models and scalable full-stack applications. 
-  </p>
+  <h1>Hi there, I'm Antariksh Mohapatra 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+Data+Science+Enthusiast;B.Tech+CSE+at+XIM+University" alt="Typing SVG" />
+  </a>
+
+  <p>Bridging the gap between intelligent AI models and scalable full-stack applications.</p>
+  
+  <a href="https://www.linkedin.com/in/antariksh-mohapatra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:antariksh19m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** The PROFIT Framework capstone and an automated AI Website Builder.
-- 🌱 **Currently learning:** Advanced Computer Vision and Reinforcement Learning architectures.
-- 💼 **Previously:** Quality Assurance Automation Intern at InstaSafe Technologies.
-- ⚡ **Fun fact:** When I'm not debugging or tuning machine learning models, you can usually find me playing Kabaddi.
 
-### 💻 Tech Stack
+- 🔭 **Currently working on:** The **PROFIT Framework** capstone and building an automated **AI Website Builder** using LLM APIs.
+- 🌱 **Currently learning:** Advanced Computer Vision, Reinforcement Learning, and refining system architectures.
+- 💼 **Previously:** Quality Assurance Automation Intern at **InstaSafe Technologies**.
+- 🛠️ **Problem Solving:** Passionate about optimizing database queries, deploying secure cloud architectures (AWS/ZTNA), and building seamless user experiences.
+- ⚡ **Beyond Code:** When I'm away from the keyboard, you can usually find me on the court playing Kabaddi.
 
-**Frontend & Mobile**
+---
+
+### 💻 Arsenal & Tech Stack
+
+**Frontend & Mobile App Development**
 <br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -27,7 +33,7 @@
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
 
-**Backend & Cloud**
+**Backend & Cloud Infrastructure**
 <br/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
@@ -50,20 +56,22 @@
 
 ---
 
-### 📂 Featured Projects
-* **AI Website Builder:** A full-stack platform leveraging Next.js, React, Gemini, and Groq APIs to generate websites dynamically from natural language prompts.
-* **Dozo:** A cloud-native Android medication adherence application built with Kotlin, Jetpack Compose, and Firebase.
-* **Stegano-web:** A web application using Python and React to conceal AES-256-GCM encrypted messages inside images via LSB steganography.
-* **ZTNA & AWS Infrastructure:** A custom Zero Trust Network Access architecture utilizing AWS, WireGuard VPN, Nginx, Keycloak, and Grafana.
+### 📂 Featured Engineering
+
+* **[AI Website Builder](https://github.com/antariksh19)**: A full-stack platform leveraging Next.js, React, Gemini, and Groq APIs to generate complete websites dynamically from natural language prompts.
+* **[Dozo Medication App](https://github.com/antariksh19)**: A cloud-native Android medication adherence application built with Kotlin, Jetpack Compose, and Firebase (Firestore & Auth) using MVVM architecture.
+* **[Stegano-web](https://github.com/antariksh19)**: A secure web application utilizing Python and React to conceal AES-256-GCM encrypted messages inside images via Least Significant Bit (LSB) steganography.
+* **[ZTNA Architecture](https://github.com/antariksh19)**: A custom Zero Trust Network Access environment engineered with AWS, WireGuard VPN, Nginx reverse proxying, Keycloak, Prometheus, and Grafana.
 
 ---
 
-### 📫 Let's Connect!
-<a href="https://www.linkedin.com/in/antariksh-mohapatra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:antariksh19m@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/>
+### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antariksh19&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/antariksh19">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antariksh19&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/antariksh19">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antariksh19&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
 </div>
