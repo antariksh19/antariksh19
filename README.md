@@ -27,39 +27,40 @@
 
 <!-- ABOUT & SKILLS MAGAZINE LAYOUT -->
 <table align="center" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <!-- LEFT COLUMN: ABOUT ME -->
-    <td width="55%" valign="top" style="border: none; padding-right: 20px;">
-      <h2 align="left">⚡ The Blueprint</h2>
-      <p align="left">
-        Bridging the gap between <b>machine learning</b> and <b>production-ready applications</b>. I specialize in building end-to-end systems, from highly decoupled mobile architectures to secure cloud environments.
-      </p>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>🚀 <strong>Current Focus:</strong> The <b>PROFIT Framework</b> capstone & automating full-stack generation with my <b>AI Website Builder</b>.</li>
-        <br/>
-        <li>🧠 <strong>Exploring:</strong> Advanced Computer Vision, Reinforcement Learning, and ZTNA.</li>
-        <br/>
-        <li>💼 <strong>Previously:</strong> Quality Assurance Automation Intern @ <b>InstaSafe</b>.</li>
-        <br/>
-        <li>🏆 <strong>Beyond Code:</strong> When I'm away from the keyboard, you'll find me on the court playing <b>Kabaddi</b>.</li>
-      </ul>
-    </td>
-    
-    <!-- RIGHT COLUMN: TECH ARSENAL -->
-    <td width="45%" valign="top" style="border: none; padding-left: 20px;">
-      <h2 align="left">🛠️ Tech Arsenal</h2>
-      <div align="left">
-        <i>Frontend & Mobile</i><br/>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,kotlin&perline=6" alt="Frontend Skills" /></a>
-        <br/><br/>
-        <i>Backend & AI</i><br/>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,python,django,pytorch&perline=6" alt="Backend Skills" /></a>
-        <br/><br/>
-        <i>Cloud, DevOps & Data</i><br/>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,firebase,postgres,mongodb,nginx&perline=6" alt="DevOps Skills" /></a>
-      </div>
-    </td>
-  </tr>
+<tr style="border: none;">
+<!-- LEFT COLUMN: ABOUT ME -->
+<td width="55%" valign="top" style="border: none; padding-right: 20px;">
+<h2 align="left">⚡ The Blueprint</h2>
+<p align="left">
+Bridging the gap between <b>machine learning</b> and <b>production-ready applications</b>. I specialize in building end-to-end systems, from highly decoupled mobile architectures to secure cloud environments.
+</p>
+<ul style="list-style-type: none; padding-left: 0;">
+<li>🚀 <strong>Current Focus:</strong> The <b>PROFIT Framework</b> capstone & automating full-stack generation with my <b>AI Website Builder</b>.</li>
+<br/>
+<li>🧠 <strong>Exploring:</strong> Advanced Computer Vision, Reinforcement Learning, and ZTNA.</li>
+<br/>
+<li>💼 <strong>Previously:</strong> Quality Assurance Automation Intern @ <b>InstaSafe</b>.</li>
+<br/>
+<li>🏆 <strong>Beyond Code:</strong> When I'm away from the keyboard, you'll find me on the court playing <b>Kabaddi</b>.</li>
+</ul>
+</td>
+
+  
+<!-- RIGHT COLUMN: TECH ARSENAL -->
+<td width="45%" valign="top" style="border: none; padding-left: 20px;">
+<h2 align="left">🛠️ Tech Arsenal</h2>
+<div align="left">
+<i>Frontend & Mobile</i><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,kotlin&perline=6" alt="Frontend Skills" /></a>
+<br/><br/>
+<i>Backend & AI</i><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,python,django,pytorch&perline=6" alt="Backend Skills" /></a>
+<br/><br/>
+<i>Cloud, DevOps & Data</i><br/>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,firebase,postgres,mongodb,nginx&perline=6" alt="DevOps Skills" /></a>
+</div>
+</td>
+</tr>
 </table>
 
 <br/><br/>
