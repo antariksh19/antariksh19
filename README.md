@@ -1,6 +1,6 @@
 <!-- DYNAMIC GRADIENT BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0EA5E9&height=250&section=header&text=Antariksh%20Mohapatra&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%20&%20Data%20Science&descAlignY=58&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0EA5E9&height=250&section=header&text=Antariksh%20Mohapatra&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20&%20Data%20Science&descAlignY=58&descAlign=50" alt="Header Banner" width="100%" />
 </div>
 
 <!-- TYPING ANIMATION & VIEWS -->
@@ -111,19 +111,20 @@ Bridging the gap between <b>machine learning</b> and <b>production-ready applica
 
 <br/><br/>
 
-<!-- ADVANCED GITHUB METRICS -->
+
+<!--
+<!-- ADVANCED GITHUB METRICS --
 <h2 align="center">📈 GitHub Analytics & Activity</h2>
 <br/>
 
 
-<!-- STATS & STREAK (TRANSPARENT & RESPONSIVE) -->
+<!-- STATS & STREAK (TRANSPARENT & RESPONSIVE) --
 <div align="center">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=antariksh19&show_icons=true&theme=transparent&title_color=0EA5E9&text_color=8b949e&icon_color=0EA5E9&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=antariksh19&theme=transparent&fire=0EA5E9&ring=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <br/>
-
+-->
 
 <br/>
 <div align="center">
